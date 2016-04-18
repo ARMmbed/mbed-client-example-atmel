@@ -1,0 +1,12 @@
+{
+  "name": "mbed-client-example-atmel",
+  "version": "1.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "mbed Client Example for Atmel",
+  "author": "brian.jang@atmel.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-client": "^1.8.1"
+  }
+}
