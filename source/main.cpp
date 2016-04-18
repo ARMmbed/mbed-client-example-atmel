@@ -24,8 +24,8 @@
 #include "minar/minar.h"
 #include "security.h"
 
-#include "sal-stack-atmel/AtWinc1500Interface.h"
-#include "sal-stack-atmel/AtWinc1500Adapter.h"
+#include "sal-iface-atmel-winc1500/AtWinc1500Interface.h"
+#include "sal-iface-atmel-winc1500/AtWinc1500Adapter.h"
 
 #include "common/include/nm_common.h"
 
